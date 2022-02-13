@@ -12,3 +12,4 @@ The purpose of this analysis was to help plan for upcoming retirements within th
 2.) There are no employees with the manager title that are eligible for the program. 
 
 ## Summary
+Overall, there will be a number of retirements within Pewlett Hackard based. The top three titles to plan for openings in are Senior Engineer, Senior Staff, and Engineer. It will benefit Pewlett Hackard to gear their mentorship program towards these titles to ensure a smooth transition between retirees and new hires.
